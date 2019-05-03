@@ -1,0 +1,18 @@
+<config>
+    <connector>
+        <chiliUrl>http://www.crowe.chili/5.4/admin/main.asmx</chiliUrl>
+        <adminUsername>admin</adminUsername>
+        <adminPassword>admin</adminPassword>
+    </connector>
+    <tasks>
+        <task batch="1" downloadPdf="false" includeUrls="false" showErrors="false" />
+            <pdfSettings copyFolderName="CopyFolder">
+                <pdfSetting savedInEditor="false" allowServerRendering="true" copy="true" id="19644d61-9a3f-499f-a3ec-28c2c6f72bd0">
+                <pdfSetting id="514ba170-1911-4620-b372-0d8c5d56c5ef">
+            </pdfSettings>
+            <documents>
+                <document id="5300a35f-c6fc-460d-8a42-e7e9ea30690e" environment="galilee" />
+            </documents>
+        </task>
+    </tasks>
+</config>

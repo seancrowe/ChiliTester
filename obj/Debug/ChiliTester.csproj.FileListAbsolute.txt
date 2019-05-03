@@ -1,0 +1,35 @@
+C:\Users\seancrowe\source\repos\ChiliTester\ChiliTester\bin\Debug\ChiliTester.exe.config
+C:\Users\seancrowe\source\repos\ChiliTester\ChiliTester\bin\Debug\ChiliTester.exe
+C:\Users\seancrowe\source\repos\ChiliTester\ChiliTester\bin\Debug\ChiliTester.pdb
+C:\Users\seancrowe\source\repos\ChiliTester\ChiliTester\obj\Debug\ChiliTester.csprojAssemblyReference.cache
+C:\Users\seancrowe\source\repos\ChiliTester\ChiliTester\obj\Debug\ChiliTester.csproj.CoreCompileInputs.cache
+C:\Users\seancrowe\source\repos\ChiliTester\ChiliTester\obj\Debug\ChiliTester.exe
+C:\Users\seancrowe\source\repos\ChiliTester\ChiliTester\obj\Debug\ChiliTester.pdb
+C:\Users\seancrowe\Documents\MEGAsync\NET_Projects\ChiliTester\ChiliTester\obj\Debug\ChiliTester.csprojAssemblyReference.cache
+C:\Users\seancrowe\Documents\MEGAsync\NET_Projects\ChiliTester\ChiliTester\obj\Debug\ChiliTester.csproj.CoreCompileInputs.cache
+C:\Users\seancrowe\Documents\MEGAsync\NET_Projects\ChiliTester\ChiliTester\obj\Debug\ChiliTester.exe
+C:\Users\seancrowe\Documents\MEGAsync\NET_Projects\ChiliTester\ChiliTester\obj\Debug\ChiliTester.pdb
+C:\Users\seancrowe\Documents\MEGAsync\NET_Projects\ChiliTester\ChiliTester\bin\Debug\ChiliTester.exe.config
+C:\Users\seancrowe\Documents\MEGAsync\NET_Projects\ChiliTester\ChiliTester\bin\Debug\ChiliTester.exe
+C:\Users\seancrowe\Documents\MEGAsync\NET_Projects\ChiliTester\ChiliTester\bin\Debug\ChiliTester.pdb
+E:\NET Projects\ChiliTester\ChiliTester\bin\Debug\ChiliTester.exe.config
+E:\NET Projects\ChiliTester\ChiliTester\bin\Debug\ChiliTester.exe
+E:\NET Projects\ChiliTester\ChiliTester\bin\Debug\ChiliTester.pdb
+E:\NET Projects\ChiliTester\ChiliTester\obj\Debug\ChiliTester.csprojAssemblyReference.cache
+E:\NET Projects\ChiliTester\ChiliTester\obj\Debug\ChiliTester.csproj.CoreCompileInputs.cache
+E:\NET Projects\ChiliTester\ChiliTester\obj\Debug\ChiliTester.exe
+E:\NET Projects\ChiliTester\ChiliTester\obj\Debug\ChiliTester.pdb
+D:\MegaSync\NET_Projects\Customer Success\ChiliTester\ChiliTester\bin\Debug\ChiliTester.exe.config
+D:\MegaSync\NET_Projects\Customer Success\ChiliTester\ChiliTester\bin\Debug\ChiliTester.exe
+D:\MegaSync\NET_Projects\Customer Success\ChiliTester\ChiliTester\bin\Debug\ChiliTester.pdb
+D:\MegaSync\NET_Projects\Customer Success\ChiliTester\ChiliTester\obj\Debug\ChiliTester.csprojAssemblyReference.cache
+D:\MegaSync\NET_Projects\Customer Success\ChiliTester\ChiliTester\obj\Debug\ChiliTester.csproj.CoreCompileInputs.cache
+D:\MegaSync\NET_Projects\Customer Success\ChiliTester\ChiliTester\obj\Debug\ChiliTester.exe
+D:\MegaSync\NET_Projects\Customer Success\ChiliTester\ChiliTester\obj\Debug\ChiliTester.pdb
+Z:\MegaSync\NET_Projects\Customer Success\ChiliTester\ChiliTester\bin\Debug\ChiliTester.exe.config
+Z:\MegaSync\NET_Projects\Customer Success\ChiliTester\ChiliTester\bin\Debug\ChiliTester.exe
+Z:\MegaSync\NET_Projects\Customer Success\ChiliTester\ChiliTester\bin\Debug\ChiliTester.pdb
+Z:\MegaSync\NET_Projects\Customer Success\ChiliTester\ChiliTester\obj\Debug\ChiliTester.csprojAssemblyReference.cache
+Z:\MegaSync\NET_Projects\Customer Success\ChiliTester\ChiliTester\obj\Debug\ChiliTester.csproj.CoreCompileInputs.cache
+Z:\MegaSync\NET_Projects\Customer Success\ChiliTester\ChiliTester\obj\Debug\ChiliTester.exe
+Z:\MegaSync\NET_Projects\Customer Success\ChiliTester\ChiliTester\obj\Debug\ChiliTester.pdb
