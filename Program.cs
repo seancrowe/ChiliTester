@@ -20,7 +20,8 @@ namespace ChiliTester
             string environment = "";
             string testName = environment;
 
-            KeyMaster.GetKey(soapClient, "admin", "admin", environment);
+            // Needs to be an admin key
+            KeyMaster.GetKey(soapClient, "admin", "admin");
 
             Dictionary<string, string> documentsToTest = new Dictionary<string, string>()
             {

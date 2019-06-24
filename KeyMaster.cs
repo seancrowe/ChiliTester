@@ -24,12 +24,12 @@ namespace ChiliTester
 
         public static string key;
 
-        public static string GetKey(ChiliService.mainSoapClient soapClient, string username, string password, string environment)
+        public static string GetKey(ChiliService.mainSoapClient soapClient, string username, string password)
         {
 
             if (key == null || key == "")
             {
-                string keyXml = soapClient.GenerateApiKey(username, password, environment);
+                string keyXml = soapClient.GenerateApiKey("Admin", username, password);
 
                 XmlDocument xmlDocument = new XmlDocument();
 

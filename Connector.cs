@@ -18,6 +18,9 @@ namespace ChiliTester
                 System.Net.ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls | SecurityProtocolType.Tls11 | SecurityProtocolType.Tls12;
             }
 
+            //Ingore certificate
+             ServicePointManager.ServerCertificateValidationCallback += (sender, cert, chain, sslPolicyErrors) => true;
+
             // Stop 417 exception
             System.Net.ServicePointManager.Expect100Continue = false;
 

@@ -116,7 +116,7 @@ namespace ChiliTester
 
                 if (generationTask.copyDocument == true)
                 {
-                    string copyPath = $"Chili-STCopiesQuad/{DateTime.Now.Month}-{DateTime.Now.Day}/{tempDocId.Substring(0, 6)}";
+                    string copyPath = $"Chili-STCopies/{DateTime.Now.Month}-{DateTime.Now.Day}/{tempDocId.Substring(0, 6)}";
                     xmlDocument.LoadXml(soapClient.ResourceItemCopy(apiKey, "Documents", tempDocId, name, copyPath));
                     tempDocId = xmlDocument.FirstChild.Attributes["id"].Value;
 
@@ -320,9 +320,16 @@ namespace ChiliTester
 
             try
             {
+                string ending = ".pdf";
+
+                if (url.Contains(".zip"))
+                {
+                    ending = ".zip";
+                }
+
                 WebClient wc = new WebClient();
                 wc.Headers.Add("User-Agent", "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.33 Safari/537.36");
-                wc.DownloadFile(url, directory.FullName +"\\" + documentName +".zip");
+                wc.DownloadFile(url, directory.FullName +"\\" + documentName + ending);
             }
             catch (WebException e)
             {
